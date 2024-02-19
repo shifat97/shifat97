@@ -1,4 +1,4 @@
-<img width="100%" src="https://drive.google.com/file/d/1zIxBY7A5paK5Tl-YCXcCWhuNav4qrC06/view?usp=sharing" alt="shifat">
+<img width="100%" src="./banner.png" alt="shifat">
 <hr>
 <h2>Hi There! 👋 I'm Shifat</h2>
 <p>I am a 23 year old student currently pursuing my computer science degree. I have a passion for programming and from
