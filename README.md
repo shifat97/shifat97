@@ -1,4 +1,4 @@
-<img width="100%" src="./banner.png" alt="shifat">
+<img width="100%" src="banner.png" alt="shifat">
 <hr>
 <h2>Hi There! 👋 I'm Shifat</h2>
 <p>I have a passion for programming and from that interest I started learning web application development. I have experience working with frontend technologies like JavaScript and React.
