@@ -1,9 +1,7 @@
 <img width="100%" src="./banner.png" alt="shifat">
 <hr>
 <h2>Hi There! 👋 I'm Shifat</h2>
-<p>Hi There! 👋 I'm Shifat.
-
-I have a passion for programming and from that interest I started learning web application development. I have experience working with frontend technologies like JavaScript and React.
+<p>I have a passion for programming and from that interest I started learning web application development. I have experience working with frontend technologies like JavaScript and React.
 
 Besides, I have worked on web development using HTML, CSS, Bootstrap, JavaScript, PHP, and MySQL during my university days. I am always eager to learn and explore new technologies. Beyond the screen, I'm a dedicated reader and a film enthusiast.
 
