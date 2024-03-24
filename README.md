@@ -24,17 +24,17 @@ I'm excited to contribute to meaningful projects and connect with fellow enthusi
     </div>
     <h4>Programming Languages:</h4>
     <div>
-        <img src="./images/Laravel-Dark.svg" alt="Laravel">
-        <img src="./images/PHP-Dark.svg" alt="PHP">
-        <img src="./images/JavaScript.svg" alt="JavaScript">
-        <img src="./images/React-Dark.svg" alt="React">
-        <img src="./images/NodeJS-Dark.svg" alt="NodeJS">
-        <img src="./images/MySQL-Dark.svg" alt="MySQL">
-        <img src="./images/Postman.svg" alt="Postman">
-        <img src="./images/TailwindCSS-Dark.svg" alt="Tailwind">
-        <img src="./images/Bootstrap.svg" alt="Bootstrap">
-        <img src="./images/CSS.svg" alt="CSS">
-        <img src="./images/HTML.svg" alt="HTML5">
+        <img width="50" height="50" src="./images/Laravel-Dark.svg" alt="Laravel">
+        <img width="50" height="50" src="./images/PHP-Dark.svg" alt="PHP">
+        <img width="50" height="50" src="./images/JavaScript.svg" alt="JavaScript">
+        <img width="50" height="50" src="./images/React-Dark.svg" alt="React">
+        <img width="50" height="50" src="./images/NodeJS-Dark.svg" alt="NodeJS">
+        <img width="50" height="50" src="./images/MySQL-Dark.svg" alt="MySQL">
+        <img width="50" height="50" src="./images/Postman.svg" alt="Postman">
+        <img width="50" height="50" src="./images/TailwindCSS-Dark.svg" alt="Tailwind">
+        <img width="50" height="50" src="./images/Bootstrap.svg" alt="Bootstrap">
+        <img width="50" height="50" src="./images/CSS.svg" alt="CSS">
+        <img width="50" height="50" src="./images/HTML.svg" alt="HTML5">
     </div>
     <h4>Version Control and Tools:</h4>
     <div>
