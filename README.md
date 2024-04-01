@@ -39,10 +39,11 @@ I'm excited to contribute to meaningful projects and connect with fellow enthusi
     </div>
     <h4>Version Control and Tools:</h4>
     <div>
-        <img src="./images/Git.svg" alt="Git">
-        <img src="./images/GitHub.svg" alt="GitHub">
-        <img src="./images/VSCode.svg" alt="VSCode">
-        <img src="./images/Figma-Dark.svg" alt="Figma">
+        <img width="40" height="40" src="./images/Git.svg" alt="Git">
+        <img width="40" height="40" src="./images/Github-Dark.svg" alt="GitHub">
+        <img width="40" height="40" src="./images/VSCode-Dark.svg" alt="VSCode">
+        <img width="40" height="40" src="./images/Idea-Dark.svg" alt="IntelliJ Idea">
+        <img width="40" height="40" src="./images/Figma-Dark.svg" alt="Figma">
     </div>
     <h4>Operating System</h4>
     <div>
