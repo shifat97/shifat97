@@ -1,13 +1,13 @@
-<img width="100%" src="./images/Banner.png" alt="shifat">
+<img width="100%" src="./images/Banner-Header.png" alt="shifat">
 <hr>
 <h2>Hi There! 👋 I'm Shifat</h2>
-<p>I have a passion for programming and from that interest I started learning web application development. I have experience working with frontend technologies like JavaScript and React.
-
-Besides, I have worked on web development using HTML, CSS, Bootstrap, JavaScript, PHP, and MySQL during my university days. I am always eager to learn and explore new technologies. Beyond the screen, I'm a dedicated reader and a film enthusiast.
+<p>
+I am an experienced software developer specialized in web application development. I love creating modern web solutions and learning new tech. I've spent a year building web apps and I'm always eager to learn more. I pick up new technologies quickly and adapt easily. Beyond the screen, I'm a dedicated reader and a film enthusiast.
 
 I'm excited to contribute to meaningful projects and connect with fellow enthusiasts. Looking forward to connecting with like-minded individuals!
 
-🚀 GitHub: https://github.com/shifat97</p>
+🚀 GitHub: https://github.com/shifat97
+</p>
 
 <div>
     <p>☕ Connect with me!</p>
@@ -24,12 +24,13 @@ I'm excited to contribute to meaningful projects and connect with fellow enthusi
     </div>
     <h4>Programming Languages:</h4>
     <div>
-        <img width="40" height="40" src="./images/Laravel-Dark.svg" alt="Laravel">
-        <img width="40" height="40" src="./images/PHP-Dark.svg" alt="PHP">
         <img width="40" height="40" src="./images/JavaScript.svg" alt="JavaScript">
         <img width="40" height="40" src="./images/React-Dark.svg" alt="React">
+        <img width="40" height="40" src="./images/NextJS-Dark.svg" alt="NextJS">
         <img width="40" height="40" src="./images/NodeJS-Dark.svg" alt="NodeJS">
-        <img width="40" height="40" src="./images/MySQL-Dark.svg" alt="MySQL">
+        <img width="40" height="40" src="./images/ExpressJS-Dark.svg" alt="ExpressJS">
+        <img width="40" height="40" src="./images/PostgreSQL-Dark.svg" alt="MyPostgreSQL">
+        <img width="40" height="40" src="./images/MongoDB.svg" alt="MongoDB">
         <img width="40" height="40" src="./images/Postman.svg" alt="Postman">
         <img width="40" height="40" src="./images/TailwindCSS-Dark.svg" alt="Tailwind">
         <img width="40" height="40" src="./images/Bootstrap.svg" alt="Bootstrap">
@@ -41,6 +42,7 @@ I'm excited to contribute to meaningful projects and connect with fellow enthusi
         <img src="./images/Git.svg" alt="Git">
         <img src="./images/GitHub.svg" alt="GitHub">
         <img src="./images/VSCode.svg" alt="VSCode">
+        <img src="./images/Figma-Dark.svg" alt="Figma">
     </div>
     <h4>Operating System</h4>
     <div>
