@@ -22,14 +22,18 @@ I'm excited to contribute to meaningful projects and connect with fellow enthusi
         ⚡ &emsp;Always eager to learn new technologies. <br>
         📫 &emsp;How to reach me: <a href="">shifatbinreza2@gmail.com</a>
     </div>
-    <h4>Programming Languages:</h4>
+    <h4>Skills:</h4>
     <div>
-        <img width="40" height="40" src="./images/languages//JavaScript.svg" alt="JavaScript">
+        <img width="40" height="40" src="./images/skills/Flutter-Dark.svg" alt="Flutter">
+        <img width="40" height="40" src="./images/skills/Dart-Dark.svg" alt="Dart">
+        <img width="40" height="40" src="./images/skills/JavaScript.svg" alt="JavaScript">
+        <img width="40" height="40" src="./images/skills/Flutter-Dark.svg" alt="Firebase">
+        <img width="40" height="40" src="./images/skills/Git.svg" alt="Git">
+        <img width="40" height="40" src="./images/skills/Github-Dark.svg" alt="GitHub">
     </div>
-    <h4>Version Control and Tools:</h4>
+    <h4>Tools:</h4>
     <div>
-        <img width="40" height="40" src="./images/tools/Git.svg" alt="Git">
-        <img width="40" height="40" src="./images/tools/Github-Dark.svg" alt="GitHub">
+        <img width="40" height="40" src="./images/tools/AndroidStudio-Dark.svg" alt="Android Studio">
         <img width="40" height="40" src="./images/tools/VSCode-Dark.svg" alt="VSCode">
         <img width="40" height="40" src="./images/tools/Idea-Dark.svg" alt="IntelliJ Idea">
         <img width="40" height="40" src="./images/tools/Figma-Dark.svg" alt="Figma">
