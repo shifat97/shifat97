@@ -1,5 +1,5 @@
 <!-- <img width="100%" src="./images/Banner-Header.png" alt="shifat"> -->
-<hr>
+<!-- <hr>
 <h2>Hi There! 👋</h2>
 <p>
 I'm Md. Shifat Bin Reza, a dedicated web developer specializing in MERN stack development. With a passion for creating innovative web solutions, I have successfully completed multiple projects using MERN technology. I am committed to continuous learning and staying updated with the latest trends in web development.
@@ -8,10 +8,10 @@ In addition to front-end expertise, I have a keen interest in backend developmen
 
 🚀 GitHub: https://github.com/shifat97
 
-</p>
+</p> -->
 
 <div>
-    <p>☕ Connect with me!</p>
+    <!-- <p>☕ Connect with me!</p>
     <div>
         <a href="https://www.linkedin.com/in/shifat2/"><img src="./images/social/Linkedin.svg" alt="LinkedIn"></a>
         <a href="https://www.facebook.com/md.rudro.33886/"><img src="./images/social/Facebook.svg" alt="Facebook"></a>
@@ -49,7 +49,7 @@ In addition to front-end expertise, I have a keen interest in backend developmen
         <img src="./images/os/MacOS.svg" alt="MacOS">
         <img src="./images/os/Windows.svg" alt="Windows">
     </div>
-    <hr>
+    <hr> -->
     <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shifat97&show_icons=true&locale=en"
             alt="shifat97" /></p>
     <p><img align="left"
